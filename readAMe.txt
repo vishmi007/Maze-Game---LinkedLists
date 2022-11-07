@@ -1,0 +1,2 @@
+I can read the file and make the map, also the snake chase algorithm works perfect. But  the undo function does not work. But when I tested it with non generic linked lists it worked fine. But since I have used a genereic linked list as we were told I have commented the undo function so that the other functions will work fine. 
+---- Vishmi.
